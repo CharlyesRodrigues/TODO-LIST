@@ -6,11 +6,11 @@ Font Awsome => https://cdnjs.com/libraries/font-awesome
 
 Ícones  => https://fontawesome.com/icons
 
-Projetinho criado a qual nos dá a possibilidade de :
+# Esse projetinho nos permite :
  
- -Adicionar,
- +Pesquisar,
- -Filtrar as tarefas adicionadas (Todos, Feitos e A fazer)
+ - Adicionar,
+ + Pesquisar,
+ - Filtrar as tarefas adicionadas (Todos, Feitos e A fazer)
 
  # Cada tarefa criada possui 3 botões:
  
