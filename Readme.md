@@ -12,14 +12,14 @@ Font Awsome => https://cdnjs.com/libraries/font-awesome
  + Pesquisar,
  - Filtrar as tarefas adicionadas (Todos, Feitos e A fazer)
 
- # Cada tarefa criada possui 3 botões:
- 
- ![image](https://user-images.githubusercontent.com/98665329/217106308-c4fd356a-90de-4dc3-9def-ccbc218a9250.png)
+ # Cada tarefa criada possui 3 botões: 
  
 - Primeiro botão =>  marca como tarefa realizada,
-
 + Botão ao meio  =>  permite editar a tarefa,
 - Terceiro Botão =>  permite excluir a tarefa
+
+ ![image](https://user-images.githubusercontent.com/98665329/217106308-c4fd356a-90de-4dc3-9def-ccbc218a9250.png)
+ 
 
 ![image](https://user-images.githubusercontent.com/98665329/215913766-d5a04b40-d772-4436-bd95-fe79d0c77cb9.png)
 
