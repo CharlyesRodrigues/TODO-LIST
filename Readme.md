@@ -14,7 +14,10 @@ Font Awsome => https://cdnjs.com/libraries/font-awesome
 
  # Cada tarefa criada possui 3 botões:
  
+ ![image](https://user-images.githubusercontent.com/98665329/217106308-c4fd356a-90de-4dc3-9def-ccbc218a9250.png)
+ 
 - Primeiro botão =>  marca como tarefa realizada,
+
 + Botão ao meio  =>  permite editar a tarefa,
 - Terceiro Botão =>  permite excluir a tarefa
 
